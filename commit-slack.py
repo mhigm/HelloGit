@@ -24,10 +24,10 @@ import json
 
 # Set hipchat info
 #
-TOKEN="4yHRemLtdYDu8AFfsxD30K2s"
-DOMAIN="pluggerteam.slack.com"
+TOKEN=""
+DOMAIN=""
 NAME="Subversion"
-REPO_BASE_URL='svn://218.48.68.226/svn/plugger'
+REPO_BASE_URL=''
 
 # svnlook location
 LOOK="svnlook"
